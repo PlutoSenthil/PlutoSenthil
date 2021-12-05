@@ -3,7 +3,7 @@
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
 </div>
 
 <strong>💻</strong><br>
@@ -106,6 +106,7 @@ BE Computer Science <br>
 </div>
 
 </td></tr></table> 
+
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilarumugamnellai@gmail.com)](mailto:senthilarumugamnellai@gmail.com)
 
