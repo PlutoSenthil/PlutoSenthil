@@ -3,7 +3,7 @@
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
 <strong>💻</strong><br>
