@@ -10,7 +10,6 @@ BE Computer Science <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoSenthil&layout=compact)](https://github.com/PlutoSenthil/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PlutoSenthil)](https://github.com/PlutoSenthil)
 
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilarumugamnellai@gmail.com)](mailto:senthilarumugamnellai@gmail.com)
