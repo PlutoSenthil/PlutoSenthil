@@ -28,3 +28,10 @@ BE Computer Science <br>
 
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilarumugamnellai@gmail.com)](mailto:senthilarumugamnellai@gmail.com)
+
+## Connect with me  
+<p align="center" backgroud="./images/mid.png">
+	<a href="https://github.com/PlutoSenthil" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/senthil-arumugam-a8bbb0138/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/S11Pluto" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
