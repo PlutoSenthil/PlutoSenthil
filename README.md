@@ -1,5 +1,6 @@
 <!--- Reference : https://github.com/anuraghazra/github-readme-stats --->
 # Senthil Arumugam S
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <strong>💻</strong><br>
 BE Computer Science <br>
