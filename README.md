@@ -13,7 +13,7 @@ BE Computer Science <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlutoSenthil&repo=SampleNLPmodelUsingFastAPI&show_owner=true)](https://github.com/PlutoSenthil/SampleNLPmodelUsingFastAPI)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoSenthil&layout=compact)](https://github.com/PlutoSenthil/)
+ [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=PlutoSenthil&layout=compact&langs_count=8&theme=great-gatsby)](https://github.com/PlutoSenthil/)
 
 
 <br><br>
