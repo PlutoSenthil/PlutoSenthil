@@ -18,8 +18,8 @@ BE Computer Science <br>
 <a href="https://github.com/PlutoSenthil/SampleNLPmodelUsingFastAPI">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=PlutoSenthil&repo=SampleNLPmodelUsingFastAPI&theme=react" />
 </a>
-<a href="https://github.com/PlutoSenthil/hagseub-jalyo">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=PlutoSenthil&repo=hagseub-jalyo&theme=react" />
+<a href="https://github.com/PlutoSenthil/Py">
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=PlutoSenthil&repo=Py&theme=react" />
 </a>
 
 <br><br>
