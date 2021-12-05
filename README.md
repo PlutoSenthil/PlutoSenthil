@@ -5,6 +5,7 @@
 <strong>💻</strong><br>
 BE Computer Science <br>
 
+## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlutoSenthil&count_private=true&show_icons=true&theme=radical)](https://github.com/PlutoSenthil/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlutoSenthil&repo=SampleNLPmodelUsingFastAPI&show_owner=true)](https://github.com/PlutoSenthil/SampleNLPmodelUsingFastAPI)
