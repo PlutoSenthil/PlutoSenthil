@@ -111,6 +111,8 @@ BE Computer Science <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilarumugamnellai@gmail.com)](mailto:senthilarumugamnellai@gmail.com)
 
 <a href="https://www.kaggle.com/plutosenthil" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle"/></a>
+<a href="https://www.hackerrank.com/PlutoSenthil_s11" target="_blank"><img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank"/></a>
+
 ## Connect with me  
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/PlutoSenthil" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
