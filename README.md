@@ -119,3 +119,10 @@ BE Computer Science <br>
 	<a href="https://www.linkedin.com/in/senthil-arumugam-a8bbb0138/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/S11Pluto" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=PlutoSenthil">
+</a>
+<a href="https://github.com/PlutoSenthil?tab=followers"><img src="https://img.shields.io/github/followers/PlutoSenthil?label=Followers&style=social" alt="GitHub Badge"></a>
