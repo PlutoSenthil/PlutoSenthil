@@ -2,6 +2,7 @@
 # Senthil Arumugam S
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="20%" height="5%" />
 </div>
@@ -9,7 +10,7 @@
 <strong>💻</strong><br>
 BE Computer Science <br>
 
-
+## 🙋‍♂️ About Me
 - 🔭 I’m currently learning Data Science and Machine Learning
 - 🚀 Languages I work/ have worked with: C++, C, JavaScript, Python, Java 
 
@@ -53,7 +54,6 @@ BE Computer Science <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
