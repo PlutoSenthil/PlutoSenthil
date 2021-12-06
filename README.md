@@ -110,6 +110,7 @@ BE Computer Science <br>
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senthilarumugamnellai@gmail.com)](mailto:senthilarumugamnellai@gmail.com)
 
+<a href="https://www.kaggle.com/plutosenthil" target="_blank"><img src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_white_32x32.png" alt="Kaggle"/></a>
 ## Connect with me  
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/PlutoSenthil" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
