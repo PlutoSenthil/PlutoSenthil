@@ -131,7 +131,7 @@ BE Computer Science <br>
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/PlutoSenthil">
     <img src="https://komarev.com/ghpvc/?username=PlutoSenthil">
 </a>
 <a href="https://github.com/PlutoSenthil?tab=followers"><img src="https://img.shields.io/github/followers/PlutoSenthil?label=Followers&style=social" alt="GitHub Badge"></a>
